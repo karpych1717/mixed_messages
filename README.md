@@ -1,2 +1,2 @@
-# mixed_messages
+# Mixed Messages
 codecademy project
